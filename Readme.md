@@ -7,7 +7,7 @@ Este proyecto es un ejemplo de formulario sencillo creado en React utilizando Ma
 - **React**: Biblioteca de JavaScript para construir interfaces de usuario.
 - **Material UI**: Librería de componentes UI que facilita la creación de interfaces visualmente atractivas.
 
-
+ 
 
 ## Estructura del Proyecto
 
