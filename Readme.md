@@ -1,6 +1,6 @@
 # Formulario con Material UI 
 
-Este proyecto es un ejemplo de formulario sencillo creado en React utilizando Material UI. El formulario incluye tres campos de entrada (Nombre, Apellido, y Email) y un botón opcional de envío. Está pensado como una práctica para familiarizarse con Material UI y sus componentes.
+Este proyecto es un ejemplo de formulario sencillo creado en React utilizando Material UI. El formulario incluye tres campos de entrada (Nombre, Apellido, y Email) y un botón opcional de envío. Está pensado como una práctica para familiarizarse con Material UI y sus componentes.  
 
 ## Tecnologías Utilizadas 
 
